@@ -1,4 +1,3 @@
-
 from random import shuffle
 from ranked_prefs import assign_roles, shuffled
 
@@ -14,7 +13,7 @@ string_reps = {
 preferences = {
     'Garver' : [ADC, SPT, TOP, MID, JGL],
     'Benny' : [MID, TOP, JGL, ADC, SPT],
-    'Banda' : shuffled([ADC, SPT, TOP, MID]) + [JGL]    # The faggot only cares about not playing jungle
+    'Banda' : shuffled([ADC, SPT, TOP, MID]) + [JGL]    # The man only cares about not playing jungle -.-
 }
 
 mapping = assign_roles(preferences)
