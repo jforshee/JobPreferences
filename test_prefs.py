@@ -1,4 +1,3 @@
-
 from random import shuffle
 from ranked_prefs import assign_roles, shuffled
 
