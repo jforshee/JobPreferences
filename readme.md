@@ -17,5 +17,5 @@ We first assume that all individuals receive their most preferred role. However,
 Files
 -----
 
-ranked_prefs.py: The library.
-test_prefs.py: A sample test run that illustrates how to use the library.
+* ranked_prefs.py: The library.
+* test_prefs.py: A sample test run that illustrates how to use the library.
